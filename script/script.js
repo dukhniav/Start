@@ -3,31 +3,28 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "site",
+            "Brivity",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["CRM", "www.brivity.com/super"],
+                ["CMA", "https://www.example.com"],
+                ["KWKLY", "https://www.example.com"],
+                ["Marketer", "https://www.example.com"],
+                ["IDX", "https://www.example.com"],
+                ["BlueRoof", "https://www.example.com"]
             ]
         ],
         [
-            "site",
+            "Support",
             [
                 ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["link", "https://www.example.com"],
+                ["CMA", "https://www.example.com"],
+                ["CMA", "https://www.example.com"]
             ]
         ],
         [
-            "site",
+            "Other",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ],
-        [
-            "site",
-            [
-                ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
